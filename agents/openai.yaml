@@ -1,4 +1,4 @@
 interface:
   display_name: "Project Memory"
-  short_description: "Maintain main and named memory Markdown files"
-  default_prompt: "Use $project-memory-md to load or update this project's main or named memory Markdown files before working."
+  short_description: "Maintain memory files with daily sync prompts"
+  default_prompt: "Use $project-memory-md to load project memory, ask for sync when the daily reminder is due, and keep only correct key facts."
