@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Memory"
+  short_description: "Maintain main and named memory Markdown files"
+  default_prompt: "Use $project-memory-md to load or update this project's main or named memory Markdown files before working."
